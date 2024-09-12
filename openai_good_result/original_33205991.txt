@@ -1,0 +1,9 @@
+PubMed ID: 33205991
+Title: Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers : A Randomized Controlled Trial.
+Journal: Annals of internal medicine
+Language: eng
+Year: 2021
+Month: Mar
+
+Abstract:
+Observational evidence suggests that mask wearing mitigates transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It is uncertain if this observed association arises through protection of uninfected wearers (protective effect), via reduced transmission from infected mask wearers (source control), or both.

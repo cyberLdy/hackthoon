@@ -1,0 +1,9 @@
+PubMed ID: 33078604
+Title: A single center cohort of 40 severe COVID-19 patients who were treated with convalescent plasma.
+Journal: Turkish journal of medical sciences
+Language: eng
+Year: 2020
+Month: Dec
+
+Abstract:
+A SARS-Cov2 infection which was first arised from Wuhan in December 2019 and named as COVID-19. Still there lacks either a specific treatment or a vaccine to treat COVID-19. Convalescent plasma (CP) was previously used successfully to treat SARS-CoV-1 and MERS infections. Health authority in Turkey has published a guideline to integrate this promising option in the treatment process of patients who are prone to high risk of developing severe COVID 19.

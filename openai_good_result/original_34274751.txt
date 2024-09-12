@@ -1,0 +1,9 @@
+PubMed ID: 34274751
+Title: Extractionless nucleic acid detection: a high capacity solution to COVID-19 testing.
+Journal: Diagnostic microbiology and infectious disease
+Language: eng
+Year: 2021
+Month: Oct
+
+Abstract:
+We describe an extractionless real-time reverse transcriptase-PCR (rRT-PCR) protocol for SARS-CoV-2 nucleic acid detection using heat as an accurate cost-effective high-capacity solution to COVID-19 testing. We present the effect of temperature, transport media, rRT-PCR mastermixes and gene assays on SARS-CoV-2 gene amplification and limits of detection. Utilizing our heated methodology, our limits of detection were 12.5 and 1 genome copy/reaction for singleplex E- and N1-gene assays, respectively, and 1 genome copy/reaction by utilizing an E/N1 or Orf1ab/N1 multiplex assay combination. Using this approach, we detected up to 98% of COVID-19 positive patient samples analyzed in our various cohorts including a significant percentage of weak positives. Importantly, this extractionless approach will allow for >2-fold increase in testing capacity with existing instruments, circumvent the additional need for expensive extraction devices, provide the sensitivity needed for COVID-19 detection and significantly reduce the turn-around time of reporting COVID-19 test results.

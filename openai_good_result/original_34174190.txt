@@ -1,0 +1,9 @@
+PubMed ID: 34174190
+Title: Effectiveness of BNT162b2 and ChAdOx1 nCoV-19 COVID-19 vaccination at preventing hospitalisations in people aged at least 80 years: a test-negative, case-control study.
+Journal: The Lancet. Infectious diseases
+Language: eng
+Year: 2021
+Month: Nov
+
+Abstract:
+On Dec 8, 2020, deployment of the first SARS-CoV-2 vaccination authorised for UK use (BNT162b2 mRNA vaccine) began, followed by an adenoviral vector vaccine ChAdOx1 nCoV-19 on Jan 4, 2021. Care home residents and staff, frontline health-care workers, and adults aged 80 years and older were vaccinated first. However, few data exist regarding the effectiveness of these vaccines in older people with many comorbidities. In this post-implementation evaluation of two COVID-19 vaccines, we aimed to determine the effectiveness of one dose in reducing COVID-19-related admissions to hospital in people of advanced age.
