@@ -21,6 +21,33 @@ def get_pubmed_ids(QUERY, NUM_ARTICLE):
         print(f"Error: {response.status_code}")
 
 
+
+#EXAMPLE
+-------------------------------------------------------------
+        # Define Prompt Template directly in the script
+        PROMPT_TEMPLATE = """
+        Answer the question based only on the following context:
+
+        {context}
+
+        ---
+
+        Answer the question based on the above context: {question}
+
+        Return no answer if you cannot find an answer from the context.
+        """
+
+        #PROMPT_TEMPLATE = " Please write a complete, well-structued summary for this document"
+        prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
+        prompt = prompt_template.format(context=context_text, question=query_text)
+
+        # Load Remote LLM
+        ollama = Ollama(
+            base_url=os.getenv('OLLAMA_URL'),
+            model=os.getenv('OLLAMA_MODEL'),
+        )
+        response = ollama.invoke(prompt)
+--------------------------------------------------------------------------
 if __name__ == "__main__":
     id_list  = get_pubmed_ids(QUERY, NUM_ARTICLE)
     for x in id_list:
